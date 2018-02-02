@@ -1,0 +1,12 @@
+{
+	"name": "Mi botsito",
+	"version": "0.1.2",
+	"description": "estoy haciendo lentamente un bot",
+	"main": "bot.js",
+	"author": "DeusEsp a.k.a Agustin",
+	"dependencies": {
+		"discord.io": "^2.5.3",
+		"discord.js": "^11.3.0",
+		"winston": "^2.4.0"
+	}
+}
