@@ -3,6 +3,7 @@
 	"version": "0.1.2",
 	"description": "estoy haciendo lentamente un bot",
 	"main": "bot.js",
+	"script":{"start":"node bot.js"}
 	"author": "DeusEsp a.k.a Agustin",
 	"dependencies": {
 		"discord.io": "^2.5.3",
